@@ -1,6 +1,8 @@
 /*
 Leap Day for GitHub Pages
 by Matt Graham
+
+Modified by Christopher Petroff
 */
 @font-face {
   font-family: 'Quattrocento Sans';
@@ -651,7 +653,7 @@ dt {
 }
 
 header {
-  padding: 25px 20px 40px 20px;
+  padding: 25px 0 40px 0;
   margin: 0;
   position: fixed;
   top: 0;
